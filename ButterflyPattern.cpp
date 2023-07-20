@@ -15,7 +15,7 @@ int main(){
         cout<<" ";
     }
     for(int l=1;l<=i;l++){
-         cout<<"*";
+        cout<<"*";
     }
     cout<<endl;
    }
@@ -31,5 +31,5 @@ int main(){
          cout<<"*";
     }
     cout<<endl;
-   }
+     }
 }
