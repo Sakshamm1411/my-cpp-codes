@@ -1,5 +1,3 @@
-if(count==2){
-    //     cout<<" prime number ";
+ // for(int i=0; i<q; i++){
+    //     cout<<r[i]<<" ";
     // }
-    // else
-    // cout
