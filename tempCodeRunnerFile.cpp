@@ -1,3 +1,2 @@
- // for(int i=0; i<q; i++){
-    //     cout<<r[i]<<" ";
-    // }
+ the size of the array - ";
+    cin>>n;
